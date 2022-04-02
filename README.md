@@ -2,7 +2,7 @@
 Original App Design Project - README Template
 ===
 
-# APP_NAME_HERE
+# Habiters
 
 ## Table of Contents
 1. [Overview](#Overview)
@@ -12,7 +12,8 @@ Original App Design Project - README Template
 
 ## Overview
 ### Description
-[Description of your app]
+Habit is a habit tracker app that helps you to build good habits, reach your goals.
+It will remind you when needed, track habits with stats and notes, analyze habits with charts, therefore reach your goals at ease. It is also the first habit app that let you and your friends build habit together by remind and encourage each other.
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
