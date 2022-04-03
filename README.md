@@ -79,6 +79,9 @@ It will remind you when needed, track habits with stats and notes, analyze habit
 [Add picture of your hand sketched wireframes in this section]
 <img src="https://flic.kr/ps/3YBty8" width=800>
 
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/195335892@N03" title=""><img src="https://live.staticflickr.com/65535/51980554271_8009bbd84d_z.jpg" width="640" height="480" alt=""></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
 
 
 
