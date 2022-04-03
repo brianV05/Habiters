@@ -77,9 +77,9 @@ It will remind you when needed, track habits with stats and notes, analyze habit
    
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-<img src="https://imgur.com/a/VyuOu27" width=800>
+<img src="https://imgur.com/ZPuHo4P" width=800>
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/VyuOu27" data-context="false" ><a href="//imgur.com/a/VyuOu27"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 
 
 ## Schema 
