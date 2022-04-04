@@ -77,7 +77,7 @@ It will remind you when needed, track habits with stats and notes, analyze habit
 
    
 ## Wireframes
-<img src="file:///Users/brianvelecela/Desktop/Screen%20Shot%202022-04-04%20at%202.52.15%20PM.png" width=600>
+<img src="https://www3.online-convert.com/dl/web7/download-file/7b9a1a34-239b-40ac-b0ab-017e878bae14/51982710219_43c79e4667_k.webp" width=600>
 
 
 ## Schema 
