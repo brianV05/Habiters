@@ -43,37 +43,38 @@ It will remind you when needed, track habits with stats and notes, analyze habit
 * Including a calendar
 
 
-### 2. Screen Archetypes
+## 2. Screen Archetypes
+* Login 
+  * User signs up or logs into their account
+* Home page
+  * After login user has access to home page
+  * In home page, user can see list of their habits for the day or add a habit.
+* Habit Stats
+  * A calendar will show user how they did that month. 
+  * There will be statistics of overall rate, the number of perfect days, habits done, and daily average of the month.
+* Add friends
+  * Tap add button to invite a friend from their contacts to share habits with.
+* Setting
+  * Customize the appearance of the app
 
-* Creation
-   * User can pick out default habits or customize its own habit 
-*  Settings
-    * Cutomizing the appearance of the app  
-### 3. Navigation
 
+## 3. Navigation
 **Tab Navigation** (Tab to Screen)
 
-* Habits
-* Notes
-* Remainders
+* Home Screen(habits)
+* Habit Stat
+* Add friends
 * Settings
+
 
 **Flow Navigation** (Screen to Screen)
 
-* Habits
-    => Home
-* Notes
-    =>Home
-    =>Remainders
-    =>Settings
-* Remainders
-    =>Home
-    =>Notes
-    =>Settings
-* Settings 
-    =>Home
-    =>Notes
-    =>Remainders
+* Login->Forgot password screen 
+* Homepage -> Add Habit
+* Habit Stat
+* Add friends->text or email contact
+* Settings-> toggle settings 
+
    
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
