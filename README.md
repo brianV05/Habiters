@@ -77,14 +77,20 @@ It will remind you when needed, track habits with stats and notes, analyze habit
 
    
 ## Wireframes
-<img src="https://www3.online-convert.com/dl/web7/download-file/7b9a1a34-239b-40ac-b0ab-017e878bae14/51982710219_43c79e4667_k.webp" width=600>
+<img src="![IMG-2226](https://user-images.githubusercontent.com/70337936/162646898-cd53f254-ec9c-4958-8b7d-b857d3691807.jpg)" width=600>
 
 
 ## Schema 
 [This section will be completed in Unit 9]
 ### Models
-| Property | Type | Description |
-|----------|------|-------------|
+|  Property   |    Type    |         Description          |
+|-------------|------------|------------------------------|
+|  Objectid   |   String   | Id for user's custom habit   |
+|  Caption    |   String   | Caption by the user          |
+|  createdAt  |  Datatime  | date when user created habit |
+|  updateAt   |  Datatime  | date when user delete or update current habit |
+
+ 
 ### Networking
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
