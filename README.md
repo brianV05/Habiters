@@ -77,7 +77,7 @@ It will remind you when needed, track habits with stats and notes, analyze habit
 
    
 ## Wireframes
-<img src=" Users/brianvelecela/Desktop/IMG-2226.jpg    " width=600>
+<img src="https://user-images.githubusercontent.com/70337936/162648714-68fc5946-528c-42a0-889c-f9684b6ab27d.jpg " width=600>
 ## Schema 
 [This section will be completed in Unit 9]
 ### Models
