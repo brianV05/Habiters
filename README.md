@@ -77,9 +77,7 @@ It will remind you when needed, track habits with stats and notes, analyze habit
 
    
 ## Wireframes
-<img src="![IMG-2226](https://user-images.githubusercontent.com/70337936/162646898-cd53f254-ec9c-4958-8b7d-b857d3691807.jpg)" width=600>
-
-
+<img src=" Users/brianvelecela/Desktop/IMG-2226.jpg    " width=600>
 ## Schema 
 [This section will be completed in Unit 9]
 ### Models
@@ -92,6 +90,9 @@ It will remind you when needed, track habits with stats and notes, analyze habit
 
  
 ### Networking
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+- Home Feed Screen
+   - (Read/Get) Gets to see habit user created
+   - (Create/POST) Add and customize habits
+   - (Delete) delete habit already completed
+
+
