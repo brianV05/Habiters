@@ -83,7 +83,8 @@ It will remind you when needed, track habits with stats and notes, analyze habit
 ## Schema 
 [This section will be completed in Unit 9]
 ### Models
-[Add table of models]
+| Property | Type | Description |
+|----------|------|-------------|
 ### Networking
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
