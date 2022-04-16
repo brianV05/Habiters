@@ -81,6 +81,7 @@ It will remind you when needed, track habits with stats and notes, analyze habit
 ## Schema 
 [This section will be completed in Unit 9]
 ### Models
+
 |  Property   |    Type    |         Description          |
 |-------------|------------|------------------------------|
 |  Objectid   |   String   | Id for user's custom habit   |
