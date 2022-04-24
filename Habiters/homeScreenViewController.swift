@@ -26,6 +26,7 @@ class homeScreenViewController: UIViewController {
         //extension to the loginViewController
         let loginViewController = main.instantiateViewController(withIdentifier: "LogIn")
         //getting access to the window?
+        
         guard let windowScene = UIApplication.shared.connectedScenes.first as? UIWindowScene, let delegate = windowScene.delegate as? SceneDelegate else {return}
         
         delegate.window?.rootViewController = loginViewController
