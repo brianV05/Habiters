@@ -73,10 +73,6 @@ class homeScreenViewController: UIViewController, UITableViewDelegate, UITableVi
         
         delegate.window?.rootViewController = loginViewController
 
-        
-        
-        
-        
     }
      
     

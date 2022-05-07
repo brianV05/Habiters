@@ -16,6 +16,20 @@ class LoginViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        //create a gradient layer
+        let gradientLayer = CAGradientLayer()
+        //set the size of the layer to be equal to size of the display
+        gradientLayer.frame = view.bounds
+        
+        //set an array of color of your choice
+        gradientLayer.colors = [
+                                UIColor.systemPurple.cgColor,
+                                UIColor.systemPink.cgColor,
+                                ]
+        //apply gradient to background
+        view.layer.insertSublayer(gradientLayer, at: 0)
+        
     }
     
     //This is loggin to the app
