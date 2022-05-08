@@ -7,7 +7,7 @@
 
 import UIKit
 import Parse
-
+let defaults = UserDefaults.standard   //global variable for the settingViewController
 class homeScreenViewController: UIViewController, UITableViewDelegate, UITableViewDataSource {
     
     //Creating a property of empty array
@@ -16,10 +16,20 @@ class homeScreenViewController: UIViewController, UITableViewDelegate, UITableVi
     @IBOutlet var tableView: UITableView!
     
     override func viewDidLoad() {
+        overrideUserInterfaceStyle = .light
         super.viewDidLoad()
         
         tableView.delegate = self
         tableView.dataSource = self
+    }
+    
+    override func viewWillAppear(_ animated: Bool) {
+        if defaults.bool(forKey: "darkMode") == true{
+            overrideUserInterfaceStyle = .dark
+        }
+        else{
+            overrideUserInterfaceStyle = .light
+        }
     }
     
     //this will pull in the idea you just created

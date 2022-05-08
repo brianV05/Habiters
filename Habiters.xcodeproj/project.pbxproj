@@ -10,6 +10,7 @@
 		4E0A4D0EC8F52E013A6354B5 /* Pods_Habiters_HabitersUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 620C870A78FE4C86E19690CD /* Pods_Habiters_HabitersUITests.framework */; };
 		5E0A22D3FD304C211A20BDE3 /* Pods_HabitersTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BCEE945D6CB4CEC837586BD3 /* Pods_HabitersTests.framework */; };
 		65F47561BF837FE5A7DC77CF /* Pods_Habiters.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 70E178D425789EF56071F7B6 /* Pods_Habiters.framework */; };
+		7111795E28286B4400BD4F29 /* settingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7111795D28286B4400BD4F29 /* settingViewController.swift */; };
 		71593E12281F5E40002AFA9E /* ideasTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71593E11281F5E40002AFA9E /* ideasTableViewCell.swift */; };
 		71BC9044281E2DD90094212B /* addListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71BC9043281E2DD90094212B /* addListViewController.swift */; };
 		71FA3E512813852200FB1F0D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71FA3E502813852200FB1F0D /* AppDelegate.swift */; };
@@ -47,6 +48,7 @@
 		4667E4D607E36DC44AC694DD /* Pods-HabitersTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HabitersTests.debug.xcconfig"; path = "Target Support Files/Pods-HabitersTests/Pods-HabitersTests.debug.xcconfig"; sourceTree = "<group>"; };
 		620C870A78FE4C86E19690CD /* Pods_Habiters_HabitersUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Habiters_HabitersUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		70E178D425789EF56071F7B6 /* Pods_Habiters.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Habiters.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		7111795D28286B4400BD4F29 /* settingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = settingViewController.swift; sourceTree = "<group>"; };
 		71593E11281F5E40002AFA9E /* ideasTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ideasTableViewCell.swift; sourceTree = "<group>"; };
 		71BC9043281E2DD90094212B /* addListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = addListViewController.swift; sourceTree = "<group>"; };
 		71FA3E4D2813852200FB1F0D /* Habiters.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Habiters.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -132,6 +134,7 @@
 				71FA3E822813BA5700FB1F0D /* homeScreenViewController.swift */,
 				71BC9043281E2DD90094212B /* addListViewController.swift */,
 				71593E11281F5E40002AFA9E /* ideasTableViewCell.swift */,
+				7111795D28286B4400BD4F29 /* settingViewController.swift */,
 			);
 			path = Habiters;
 			sourceTree = "<group>";
@@ -420,6 +423,7 @@
 				71FA3E832813BA5700FB1F0D /* homeScreenViewController.swift in Sources */,
 				71BC9044281E2DD90094212B /* addListViewController.swift in Sources */,
 				71FA3E512813852200FB1F0D /* AppDelegate.swift in Sources */,
+				7111795E28286B4400BD4F29 /* settingViewController.swift in Sources */,
 				71FA3E532813852300FB1F0D /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
