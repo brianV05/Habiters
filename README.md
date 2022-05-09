@@ -1,5 +1,5 @@
-
-# Habiters
+<img src="codepath-flix.gif" width=250><br>
+# GYST - GET YA S***T TOGETHER
 
 ## Table of Contents
 1. [Overview](#Overview)
