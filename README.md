@@ -93,3 +93,10 @@ It will remind you when needed, track habits with stats and notes, analyze habit
    - (Create/POST) Add and customize habits
    - (Delete) delete habit already completed
 
+### Implementations
+
+#### Calender
+```
+This Calender was created to block out days for anything specific related. For example the purple was used for a studying day and it would block out the days that I choose. 
+```
+<img src="codepath-flix.gif" width=250><br>
