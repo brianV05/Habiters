@@ -9,14 +9,14 @@
 
 ## Overview
 ### Description
-Habit is a habit tracker app that helps you to build good habits, reach your goals.
-It will remind you when needed, track habits with stats and notes, analyze habits with charts, therefore reach your goals at ease. It is also the first habit app that let you and your friends build habit together by remind and encourage each other.
+GYST is a habit tracker app that helps you to build good habits, reach your goals.
+It will remind you when needed, track habits with stats and notes, analyze habits with charts, therefore reach your goals at ease. It is also the first habit app that let you and your friends build habit together by remind and encouraging each other.
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
 - **Category:** Productivity
-- **Mobile:** Habiter standout habit tracking app for iphone users. It's simple and quick to use, while offering enough options for trakccing any kind of habit, based around the idea of building and maintaining a habit streak.
-- **Story:** Habiter enables you to track daily, weekly, and monthly habits. When you tap the "Add Task" button, you can choose from a present option like "walk the dog" or "eat a healthy meal" or even create your own custom habit. Whichever way you go, you'll be able to set the habit as due on a certain number of days per week or per month, on specific days of the week, or recurring every few days. 
+- **Mobile:** GYST standout habit tracking app for iphone users. It's simple and quick to use, while offering enough options for trakccing any kind of habit, based around the idea of building and maintaining a habit streak.
+- **Story:** GYST enables you to track daily, weekly, and monthly habits. When you tap the "Add Task" button, you can choose from a present option like "walk the dog" or "eat a healthy meal" or even create your own custom habit. Whichever way you go, you'll be able to set the habit as due on a certain number of days per week or per month, on specific days of the week, or recurring every few days. 
 - **Market:** Any individual can use this app to better organize and track their days. 
 - **Habit:** This app can be used as often or unoften as the user wanted depending on how an individual's daily lives.
 - **Scope:** 
