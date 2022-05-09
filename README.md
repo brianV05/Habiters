@@ -101,3 +101,11 @@ This Calender was created to block out days for anything specific related.
 For example the purple was used for a studying day and it would block out the days that I choose. 
 ```
 <img src="calender-gif.gif" width=250><br>
+
+```
+This part was supposed to show the color co-ordinated updates on your day to day tasks. 
+So the green here is showing the days you have motivated. 
+The gray shows a rest day and the red are days you missed out on. 
+The flag shows the intended goal. 
+The time for how much you wish to allocate each day and the streaks for consecutive days you accomplished your goals.
+```
